@@ -40,3 +40,6 @@
 [submodule "estructuras-de-Control"]
 	path = estructuras-de-Control
 	url = https://github.com/Gdaimon/estructuras-de-Control.git
+[submodule "graficos-ui"]
+	path = graficos-ui
+	url = https://github.com/Gdaimon/graficos-ui.git
