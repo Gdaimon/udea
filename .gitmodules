@@ -4,3 +4,6 @@
 [submodule "arraylist"]
 	path = arraylist
 	url = https://github.com/Gdaimon/arraylist.git
+[submodule "arreglos"]
+	path = arreglos
+	url = https://github.com/Gdaimon/arreglos.git
