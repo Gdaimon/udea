@@ -73,3 +73,6 @@
 [submodule "programacion-funcional"]
 	path = programacion-funcional
 	url = https://github.com/Gdaimon/programacion-funcional.git
+[submodule "pruebas-unitarias"]
+	path = pruebas-unitarias
+	url = https://github.com/Gdaimon/pruebas-unitarias.git
