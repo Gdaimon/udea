@@ -16,3 +16,6 @@
 [submodule "clases-objetos"]
 	path = clases-objetos
 	url = https://github.com/Gdaimon/clases-objetos.git
+[submodule "clase-string"]
+	path = clase-string
+	url = https://github.com/Gdaimon/clase-string.git
