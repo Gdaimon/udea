@@ -49,3 +49,6 @@
 [submodule "herencia-b"]
 	path = herencia-b
 	url = https://github.com/Gdaimon/herencia-b.git
+[submodule "hola-mundo"]
+	path = hola-mundo
+	url = https://github.com/Gdaimon/hola-mundo.git
