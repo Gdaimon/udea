@@ -19,3 +19,6 @@
 [submodule "clase-string"]
 	path = clase-string
 	url = https://github.com/Gdaimon/clase-string.git
+[submodule "ejercicio-arrayList"]
+	path = ejercicio-arrayList
+	url = https://github.com/Gdaimon/ejercicio-arrayList.git
