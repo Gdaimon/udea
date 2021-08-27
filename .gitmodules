@@ -82,3 +82,6 @@
 [submodule "retorno-valores"]
 	path = retorno-valores
 	url = https://github.com/Gdaimon/retorno-valores.git
+[submodule "clases-wrapper"]
+	path = clases-wrapper
+	url = https://github.com/Gdaimon/clases-wrapper.git
