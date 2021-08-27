@@ -28,3 +28,6 @@
 [submodule "ejercicios-semana-2"]
 	path = ejercicios-semana-2
 	url = https://github.com/Gdaimon/ejercicios-semana-2.git
+[submodule "ejercicio-streams"]
+	path = ejercicio-streams
+	url = https://github.com/Gdaimon/ejercicio-streams.git
