@@ -64,3 +64,6 @@
 [submodule "modificadores-acceso"]
 	path = modificadores-acceso
 	url = https://github.com/Gdaimon/modificadores-acceso.git
+[submodule "paso-valores-referencia"]
+	path = paso-valores-referencia
+	url = https://github.com/Gdaimon/paso-valores-referencia.git
