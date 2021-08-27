@@ -34,3 +34,6 @@
 [submodule "esctructura-clase"]
 	path = esctructura-clase
 	url = https://github.com/Gdaimon/esctructura-clase.git
+[submodule "estaticos"]
+	path = estaticos
+	url = https://github.com/Gdaimon/estaticos.git
