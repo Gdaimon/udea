@@ -37,3 +37,6 @@
 [submodule "estaticos"]
 	path = estaticos
 	url = https://github.com/Gdaimon/estaticos.git
+[submodule "estructuras-de-Control"]
+	path = estructuras-de-Control
+	url = https://github.com/Gdaimon/estructuras-de-Control.git
