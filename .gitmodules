@@ -1,3 +1,6 @@
 [submodule "clases-abstractas"]
 	path = clases-abstractas
 	url = https://github.com/Gdaimon/clases-abstractas.git
+[submodule "arraylist"]
+	path = arraylist
+	url = https://github.com/Gdaimon/arraylist.git
