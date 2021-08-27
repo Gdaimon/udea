@@ -22,3 +22,6 @@
 [submodule "ejercicio-arrayList"]
 	path = ejercicio-arrayList
 	url = https://github.com/Gdaimon/ejercicio-arrayList.git
+[submodule "ejercicio-herencia"]
+	path = ejercicio-herencia
+	url = https://github.com/Gdaimon/ejercicio-herencia.git
