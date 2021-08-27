@@ -43,3 +43,6 @@
 [submodule "graficos-ui"]
 	path = graficos-ui
 	url = https://github.com/Gdaimon/graficos-ui.git
+[submodule "herencia-a"]
+	path = herencia-a
+	url = https://github.com/Gdaimon/herencia-a.git
