@@ -13,3 +13,6 @@
 [submodule "casting"]
 	path = casting
 	url = https://github.com/Gdaimon/casting.git
+[submodule "clases-objetos"]
+	path = clases-objetos
+	url = https://github.com/Gdaimon/clases-objetos.git
