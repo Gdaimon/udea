@@ -55,3 +55,6 @@
 [submodule "interfaces"]
 	path = interfaces
 	url = https://github.com/Gdaimon/interfaces.git
+[submodule "interfaces-ejercicio"]
+	path = interfaces-ejercicio
+	url = https://github.com/Gdaimon/interfaces-ejercicio.git
