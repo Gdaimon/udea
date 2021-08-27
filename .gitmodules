@@ -58,3 +58,6 @@
 [submodule "interfaces-ejercicio"]
 	path = interfaces-ejercicio
 	url = https://github.com/Gdaimon/interfaces-ejercicio.git
+[submodule "metodos-acceso"]
+	path = metodos-acceso
+	url = https://github.com/Gdaimon/metodos-acceso.git
