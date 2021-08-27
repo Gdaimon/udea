@@ -7,3 +7,6 @@
 [submodule "arreglos"]
 	path = arreglos
 	url = https://github.com/Gdaimon/arreglos.git
+[submodule "calculadora"]
+	path = calculadora
+	url = https://github.com/Gdaimon/calculadora.git
