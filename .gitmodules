@@ -52,3 +52,6 @@
 [submodule "hola-mundo"]
 	path = hola-mundo
 	url = https://github.com/Gdaimon/hola-mundo.git
+[submodule "interfaces"]
+	path = interfaces
+	url = https://github.com/Gdaimon/interfaces.git
