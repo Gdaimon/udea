@@ -61,3 +61,6 @@
 [submodule "metodos-acceso"]
 	path = metodos-acceso
 	url = https://github.com/Gdaimon/metodos-acceso.git
+[submodule "modificadores-acceso"]
+	path = modificadores-acceso
+	url = https://github.com/Gdaimon/modificadores-acceso.git
