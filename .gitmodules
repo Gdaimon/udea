@@ -31,3 +31,6 @@
 [submodule "ejercicio-streams"]
 	path = ejercicio-streams
 	url = https://github.com/Gdaimon/ejercicio-streams.git
+[submodule "esctructura-clase"]
+	path = esctructura-clase
+	url = https://github.com/Gdaimon/esctructura-clase.git
