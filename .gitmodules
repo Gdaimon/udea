@@ -76,3 +76,6 @@
 [submodule "pruebas-unitarias"]
 	path = pruebas-unitarias
 	url = https://github.com/Gdaimon/pruebas-unitarias.git
+[submodule "repaso-objetos"]
+	path = repaso-objetos
+	url = https://github.com/Gdaimon/repaso-objetos.git
