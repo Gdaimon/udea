@@ -25,3 +25,6 @@
 [submodule "ejercicio-herencia"]
 	path = ejercicio-herencia
 	url = https://github.com/Gdaimon/ejercicio-herencia.git
+[submodule "ejercicios-semana-2"]
+	path = ejercicios-semana-2
+	url = https://github.com/Gdaimon/ejercicios-semana-2.git
