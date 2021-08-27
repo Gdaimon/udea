@@ -10,3 +10,6 @@
 [submodule "calculadora"]
 	path = calculadora
 	url = https://github.com/Gdaimon/calculadora.git
+[submodule "casting"]
+	path = casting
+	url = https://github.com/Gdaimon/casting.git
