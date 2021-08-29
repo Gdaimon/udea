@@ -85,3 +85,6 @@
 [submodule "clases-wrapper"]
 	path = clases-wrapper
 	url = https://github.com/Gdaimon/clases-wrapper.git
+[submodule "conexion-base-datos"]
+	path = conexion-base-datos
+	url = https://github.com/Gdaimon/conexion-base-datos.git
